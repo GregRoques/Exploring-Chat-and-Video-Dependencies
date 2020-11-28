@@ -2,7 +2,7 @@
 
 ## Video 
 
-**Tutorial:** https://www.youtube.com/watch?v=DvlyzDZDEq4&list=PLM2GdNHvfSCFapnr0gDAzwOnCPSQdneEW&index=2
+**Tutorial 1:** https://www.youtube.com/watch?v=DvlyzDZDEq4&list=PLM2GdNHvfSCFapnr0gDAzwOnCPSQdneEW&index=2
 
 **www.peerjs.com | npm i peer**
 
@@ -13,3 +13,5 @@ peerjs --port 3001
 ```
 
 ## Chat
+
+**Tutorial 2:** https://www.youtube.com/watch?v=rxzOqP9YwmM&list=PLM2GdNHvfSCFapnr0gDAzwOnCPSQdneEW&index=1&t=16s
